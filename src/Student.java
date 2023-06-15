@@ -20,7 +20,7 @@
       this.score = score;
     }
 
-    public String getName() {
+    public static String getName() {
       return name;
     }
 
